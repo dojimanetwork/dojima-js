@@ -1,0 +1,10 @@
+{
+  "name": "dojima-js",
+  "version": "0.0.1-alpha.1",
+  "description": "dojima blockchain interaction package for various operations like transfer, nft, erc20 tokens.",
+  "main": "src",
+  "repository": "git@github.com:dojimanetwork/dojima-js.git",
+  "author": "bhaagiKenpachi <bhagath.reddy@dojima.network>",
+  "license": "MIT",
+  "private": false
+}
